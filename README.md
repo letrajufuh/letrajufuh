@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">🔭 Currently working on TimeShift.<br>👨🏼‍🎓 Studying Btech cse in The NorthCap University.</p>
+<p align="center">🔭 Currently working on TimeShift.<br>👨🏼‍🎓 Studying Btech cse at The NorthCap University.</p>
 
 ###
 
